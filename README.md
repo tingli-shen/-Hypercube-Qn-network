@@ -1,4 +1,4 @@
-# -Hypercube-Qn-network
+# Hypercube-Qn-network
 For Hypercube Qn network, show dfs traversal and bfs traversal respectively.
 
 Input n, start  (n is dimension of Hypercube, start node)
